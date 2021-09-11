@@ -1,0 +1,4 @@
+dir    - listar os arquivos
+dir /s - lista tambem os subdiretorios
+dir /a - mostra os arquivos ocultos
+dir /p - com pausa
